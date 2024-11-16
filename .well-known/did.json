@@ -11,7 +11,7 @@
       "id": "did:web:what.soopy.moe#atproto",
       "type": "Multikey",
       "controller": "did:web:what.soopy.moe",
-      "publicKeyMultibase": "zQ3shcDVHZThmaF1RZdnaWCH2nDb2RMcC3278MGNQu3sReNua"
+      "publicKeyMultibase": "zQ3shRs93hjD7RLfbt7RxF7bMDhBrMAfEj5bMM14NPpVzJgz5"
     }
   ],
   "service": [
